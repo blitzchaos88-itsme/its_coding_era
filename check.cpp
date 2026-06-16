@@ -1861,9 +1861,10 @@
 //     scanf("%d",&a);
 //     int i = 0;
 //     while(i < a){
-//         printf("MUNIMMMMM MUNIMMMM MUNIMMMM YOU CAN DO IT . . . . \n");
+//         printf(" . . . \n");
 //         i++;
 //     }
 //     printf("Done");
 //     return 0;
 // }
+
